@@ -21,5 +21,25 @@ namespace IndustriasTecGaem.Win
 
             listaDeProductosBindingSource.DataSource = listaDeProductos;
         }
+
+        private void productosBLBindingNavigator_RefreshItems(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listaDeProductosBindingSource_CurrentChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void contextoBindingSource_CurrentChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void productosBLBindingSource_CurrentChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
