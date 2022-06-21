@@ -9,7 +9,7 @@ namespace IndustriasTecGaem.WebAdmin.Controllers
 {
     public class CategoriaController : Controller
     {
-        CategoriasBL _categoriasL;
+        CategoriasBL _categoriasBL;
 
         public CategoriaController()
         {
